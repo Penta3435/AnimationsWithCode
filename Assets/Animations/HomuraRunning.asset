@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc069ce20f58c443808ac18a6d43db2, type: 3}
+  m_Name: HomuraRunning
+  m_EditorClassIdentifier: 
+  animationName: HomuraRunning
+  frames:
+  - {fileID: -871902512, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -598329353, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: 1356269738, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -1975224253, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -379834498, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -272545540, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -1340239378, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  - {fileID: -1213483122, guid: a68f52a59ed2f9948a42f5d18379b435, type: 3}
+  framePerSeg: 10
+  isLoop: 1
+  nextAnimationName: 
